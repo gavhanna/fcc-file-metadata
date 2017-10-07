@@ -1,1 +1,2 @@
-# Backend Challenges boilerplate - package.json
+# File Metadata Microservice
+An FCC backend challenge.
